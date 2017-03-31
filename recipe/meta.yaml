@@ -30,7 +30,7 @@ about:
   home: https://github.com/mozman/dxfgrabber
   license: MIT
   license_family: MIT
-  license_file: LICENSE.TXT
+  license_file: LICENSE.txt
   summary: A Python library to grab information from DXF drawings - all DXF versions supported.
   doc_url: http://dxfgrabber.readthedocs.io/
   dev_url: https://github.com/mozman/dxfgrabber
