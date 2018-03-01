@@ -1,6 +1,6 @@
 {% set name = "dxfgrabber" %}
-{% set version = "0.8.4" %}
-{% set sha256 = "54a35c28bbdd0da8c045f5e8450169be15dfddf9caa15b0de8507d435f4aceff" %}
+{% set version = "1.0.0" %}
+{% set sha256 = "b8586172fc8a61471d83f8a66b57442061d1690f4c801e03180a9a7128348b7f" %}
 
 package:
   name: {{ name|lower }}
