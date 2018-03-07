@@ -14,9 +14,7 @@ Summary: A Python library to grab information from DXF drawings - all DXF versio
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/dxfgrabber-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/dxfgrabber-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/dxfgrabber-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/dxfgrabber-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/dxfgrabber-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/dxfgrabber-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/dxfgrabber-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/dxfgrabber-feedstock)
 
 Current release info
 ====================
