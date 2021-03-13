@@ -1,6 +1,6 @@
 {% set name = "dxfgrabber" %}
-{% set version = "1.0.0" %}
-{% set sha256 = "b8586172fc8a61471d83f8a66b57442061d1690f4c801e03180a9a7128348b7f" %}
+{% set version = "1.0.1" %}
+{% set sha256 = "329ddb5fa5a11c0fd4b83b14615686c62924a323ccf4ef2e7bc5771788d220a1" %}
 
 package:
   name: {{ name|lower }}
@@ -17,7 +17,7 @@ build:
   script: python setup.py install --single-version-externally-managed --record=record.txt
 
 requirements:
-  build:
+  host:
     - python
     - setuptools
   run:
